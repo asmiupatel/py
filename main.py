@@ -1,5 +1,0 @@
-print("Helo")
-print("No")
-print("wow")
-print('This works too')
-print(23)
